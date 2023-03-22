@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **joseluismunozzuta@gmail.com**
 
-- ⚡ Fun fact **I studied electronics so I'm more than a simple software developer, I love integrating hardware and software!**
+- ⚡ Fun fact **I studied electronics so I'm more than a software developer, I love integrating hardware and software!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
